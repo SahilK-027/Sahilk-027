@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href = "https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href = "https://leetcode.com/sahil_k_027/"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
-  <a href = "https://twitter.com/Sahil_K_27"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href = "https://www.linkedin.com/in/sahil-kandhare-661b99226/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
+  <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 
 </div>
 <br>
