@@ -12,7 +12,7 @@
 
 ❤️ I love programming, reading books, and writing essays.
   
-🤔 I’m currently open for: <b>An Intern</b>, this is <a href="https://drive.google.com/file/d/1PEOOGaTtS05sZ3xmp83qAOB1ej48aFnc/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://drive.google.com/file/d/1PEOOGaTtS05sZ3xmp83qAOB1ej48aFnc/view?usp=sharing" target="_blank">MY RESUME.</a>
 
 
 <div id="header" align="center">
