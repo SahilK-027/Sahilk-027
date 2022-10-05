@@ -18,7 +18,6 @@
 ## 🏆 My GitHub stats
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilk-027&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilk-027&show_icons=true&theme=tokyonight"/>
 <br>
 <br>
 
