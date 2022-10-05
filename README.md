@@ -1,19 +1,19 @@
 <div align="center">
 <h1> Hi there, I'm Sahil <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
-<h4>Visitor Count <h4>
 
-![Visitor Count](https://profile-counter.glitch.me/{Sahilk-027}/count.svg)
+<span align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Strctures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
+</span>
+
+![snake svg](https://github.com/SahilK-027/SahilK-027/blob/output/github-contribution-grid-snake.svg)
+
 
 🔭 I’m currently pursuing a computer engineering.
 
 ❤️ I love programming, reading books, and writing essays.
-<br>
+  
+🤔 I’m currently open for: <b>An Intern</b>, this is <a href="https://drive.google.com/file/d/1PEOOGaTtS05sZ3xmp83qAOB1ej48aFnc/view?usp=sharing" target="_blank">MY RESUME.</a>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Strctures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
-</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -34,6 +34,11 @@
 [![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilK-027&theme=dracula&area=true&hide_border=true)](https://git.io/praveenscience)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
+  
+<h4>Visitor Count <h4>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{Sahilk-027}/count.svg)
+
 <br>
 <br>
 
