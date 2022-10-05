@@ -1,7 +1,19 @@
-## Hi there, I'm Sahil👋
-- 🔭 I’m currently pursuing a computer engineering.
-- ❤️ I love programming, reading books, and writing essays.
+<div align="center">
+<h1> Hi there, I'm Sahil <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
+<h4>Visitor Count <h4>
+
+![Visitor Count](https://profile-counter.glitch.me/{Sahilk-027}/count.svg)
+
+🔭 I’m currently pursuing a computer engineering.
+
+❤️ I love programming, reading books, and writing essays.
 <br>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Strctures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,10 +26,14 @@
 </div>
 <br>
 <br>
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
 ## 🏆 My GitHub stats
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilk-027&show_icons=true&theme=tokyonight)
 
+[![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilK-027&theme=dracula&area=true&hide_border=true)](https://git.io/praveenscience)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
 <br>
 <br>
 
@@ -71,3 +87,6 @@
         </tr>
     </tbody>
 </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilK-027&layout=compact&theme=tokyonight"/>
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+</div>
