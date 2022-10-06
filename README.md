@@ -29,7 +29,6 @@
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
 ## 🏆 My GitHub stats
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilk-027&show_icons=true&theme=tokyonight)
 
 [![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilK-027&theme=dracula&area=true&hide_border=true)](https://git.io/praveenscience)
 
@@ -92,6 +91,5 @@
         </tr>
     </tbody>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilK-027&layout=compact&theme=tokyonight"/>
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 </div>
