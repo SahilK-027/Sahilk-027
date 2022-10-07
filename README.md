@@ -30,6 +30,7 @@
 
 ## 🏆 My GitHub stats
 
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)
 [![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilK-027&theme=dracula&area=true&hide_border=true)](https://git.io/praveenscience)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
