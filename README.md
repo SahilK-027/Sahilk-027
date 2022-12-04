@@ -26,6 +26,9 @@
 </div>
 <br>
 <br>
+  
+  
+ 
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
 ## 🏆 My GitHub stats
@@ -37,9 +40,7 @@
 
 ![Sahil's GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
   
-<h4>Visitor Count <h4>
- 
-![Visitor Count](https://profile-counter.glitch.me/{Sahilk-027}/count.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=7&margin-w=15&margin-h=15)
 
 <br>
 <br>
