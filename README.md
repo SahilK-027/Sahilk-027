@@ -40,7 +40,7 @@
 
 ![Sahil's GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
   
-![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=7&margin-w=15&margin-h=15)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=7&margin-w=15&margin-h=15) -->
 
 <br>
 <br>
