@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Sahil <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
 
 <span align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Strctures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
 
 ![snake svg](https://github.com/SahilK-027/SahilK-027/blob/output/github-contribution-grid-snake.svg)
