@@ -33,12 +33,13 @@
 
 ## 🏆 My GitHub stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)
-[![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilK-027&theme=dracula&area=true&hide_border=true)](https://git.io/praveenscience)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)
+  
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilK-027&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
 
-![Sahil's GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
   
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=7&margin-w=15&margin-h=15) -->
 
