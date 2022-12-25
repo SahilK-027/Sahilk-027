@@ -1,5 +1,15 @@
 <div align="center">
-<h1> Hi there, I'm Sahil <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
+<h1> Hi there, <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
+
+
+```
+  mmmm    mm   m    m mmmmm  m      m    m  mmmm   mmmm  mmmmmm
+ #"   "   ##   #    #   #    #      #  m"  m"  "m "   "#     #"
+ "#mmm   #  #  #mmmm#   #    #      #m#    #  m #     m"    m" 
+     "#  #mm#  #    #   #    #      #  #m  #    #   m"     m"  
+ "mmm#" #    # #    # mm#mm  #mmmmm #   "m  #mm#  m#mmmm  m"   
+ ```
+
 
 <span align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
