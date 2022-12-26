@@ -1,12 +1,12 @@
 <div align="center">
-<h1> Well hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> there, fellow DEVELOPERS</h1>
+<h1> Hello fellow DEVELOPERS  <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
 
-```
- mmmmm           mm   m    m         mmmm    mm   m    m mmmmm  m      m    m
-   #             ##   ##  ##        #"   "   ##   #    #   #    #      #  m" 
-   #            #  #  # ## #        "#mmm   #  #  #mmmm#   #    #      #m#   
-   #            #mm#  # "" #            "#  #mm#  #    #   #    #      #  #m 
- mm#mm         #    # #    #        "mmm#" #    # #    # mm#mm  #mmmmm #   "m
+```diff
+ mmmmm           mm   m    m         mmmm    mm   m    m mmmmm  m     
+   #             ##   ##  ##        #"   "   ##   #    #   #    #     
+   #            #  #  # ## #        "#mmm   #  #  #mmmm#   #    #     
+   #            #mm#  # "" #            "#  #mm#  #    #   #    #     
+ mm#mm         #    # #    #        "mmm#" #    # #    # mm#mm  #mmmmm
 ```
 	
 <span align="center">
