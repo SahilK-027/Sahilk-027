@@ -1,16 +1,14 @@
 <div align="center">
-<h1> Hi there, <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
-
+<h1> Well hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> there, fellow DEVELOPERS</h1>
 
 ```
-  mmmm    mm   m    m mmmmm  m      m    m  mmmm   mmmm  mmmmmm
- #"   "   ##   #    #   #    #      #  m"  m"  "m "   "#     #"
- "#mmm   #  #  #mmmm#   #    #      #m#    #  m #     m"    m" 
-     "#  #mm#  #    #   #    #      #  #m  #    #   m"     m"  
- "mmm#" #    # #    # mm#mm  #mmmmm #   "m  #mm#  m#mmmm  m"   
- ```
-
-
+ mmmmm           mm   m    m         mmmm    mm   m    m mmmmm  m      m    m
+   #             ##   ##  ##        #"   "   ##   #    #   #    #      #  m" 
+   #            #  #  # ## #        "#mmm   #  #  #mmmm#   #    #      #m#   
+   #            #mm#  # "" #            "#  #mm#  #    #   #    #      #  #m 
+ mm#mm         #    # #    #        "mmm#" #    # #    # mm#mm  #mmmmm #   "m
+```
+	
 <span align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
@@ -25,15 +23,6 @@
 🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://drive.google.com/file/d/1PEOOGaTtS05sZ3xmp83qAOB1ej48aFnc/view?usp=sharing" target="_blank">MY RESUME.</a>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
-  <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-
-</div>
 <br>
 <br>
   
@@ -56,7 +45,7 @@
 <br>
 <br>
 
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
 <table width="320px">
     <tbody>
@@ -106,5 +95,15 @@
         </tr>
     </tbody>
 </table>
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">  
+
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
+  <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
 </div>
