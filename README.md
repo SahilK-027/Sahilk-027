@@ -22,7 +22,12 @@
   
 🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://drive.google.com/file/d/1PEOOGaTtS05sZ3xmp83qAOB1ej48aFnc/view?usp=sharing" target="_blank">MY RESUME.</a>
 
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
+  <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
+	
 <br>
 <br>
   
@@ -33,17 +38,22 @@
 ## 🏆 My GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+	
+	
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilK-027&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
-
+	
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
+
+
+
+
   
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=7&margin-w=15&margin-h=15) -->
 
 <br>
 <br>
+
 
 ## 🧰 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
@@ -95,15 +105,6 @@
         </tr>
     </tbody>
 </table>
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">  
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
-  <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 </div>
