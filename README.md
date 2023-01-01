@@ -37,24 +37,20 @@
 
 ## 🏆 My GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)	
+	
+<!-- [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilK-027&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-	
-	
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilK-027&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-	
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
-
-
-
-
-  
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=7&margin-w=15&margin-h=15) -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=3&margin-w=15&margin-h=15) -->
 
 <br>
 <br>
 
-
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+	
 ## 🧰 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
 <table width="320px">
