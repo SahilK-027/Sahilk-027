@@ -26,7 +26,8 @@
   <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
   <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-	<a href = "https://discordapp.com/users/976144160417533962" target ="_blank"><img src="https://img.shields.io/badge/discord-orange?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+	<a href = "https://discordapp.com/users/976144160417533962" target ="_blank"><img src="https://img.shields.io/badge/discord-indigo?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+	<a href = "https://medium.com/@sahilkandhare07" target ="_blank"><img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/></a>
 </div>
 	
 <br>
