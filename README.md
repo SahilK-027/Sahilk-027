@@ -13,7 +13,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Competitive+Programmer;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
 
-<!-- ![snake svg](https://github.com/SahilK-027/SahilK-027/blob/output/github-contribution-grid-snake.svg) -->
 
 
 🔭 I’m currently pursuing a computer engineering.
