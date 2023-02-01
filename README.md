@@ -73,6 +73,10 @@
             <span><strong>REACT</strong></span><br>
             <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
+	    <td width="80px" align="center">
+            <span><strong>BLENDER</strong></span><br>
+            <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -95,9 +99,15 @@
             <span><strong>NODE</strong></span><br>
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="CPP"                     height="40" style="vertical-align:top; margin:10px">
             </td>
+            <td width="80px" align="center">
+            <span><strong>THREE.JS</strong></span><br>
+            <img src="https://pbs.twimg.com/profile_images/1510259524271173638/lgTEVmRi_400x400.jpg" alt="CPP" height="40" style="vertical-align:top; margin:10px; backgroundColor: #ffffff" />
+            </td>
         </tr>
     </tbody>
 </table>
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
 
 </div>
 </div>
