@@ -30,8 +30,6 @@
 	
 <br>
 <br>
-  
-  
  
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
@@ -46,11 +44,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
 ![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=3&margin-w=15&margin-h=15)
  -->
+ 
 <br>
 	
-## 🧰 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
+## 🧰 Tools & Languages: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -116,5 +114,6 @@
     </tbody>
 </table>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
 </div>
 </div>
