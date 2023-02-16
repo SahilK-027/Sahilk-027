@@ -13,11 +13,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
 
-
-
-🔭 I’m currently pursuing a computer engineering.
-
-❤️ I love programming, reading books, and writing essays.
   
 🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://drive.google.com/file/d/1PEOOGaTtS05sZ3xmp83qAOB1ej48aFnc/view?usp=sharing" target="_blank">MY RESUME.</a>
 
