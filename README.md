@@ -25,16 +25,16 @@
 	
 <br>
 <br>
- 
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 	
 ## 🏆 My GitHub stats
 	
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats) 
+-->
 
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 <br>
 	
 ## 🧰 Tools & Languages: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
@@ -106,5 +106,6 @@
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff) 
 -->
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 </div>
 </div>
