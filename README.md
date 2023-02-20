@@ -28,10 +28,14 @@
  
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
+	
 ## 🏆 My GitHub stats
-
+<div  align="left">
+	
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+	
+</div>
 
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 <br>
