@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href = "https://leetcode.com/sahil_k_027/" target ="_blank"><img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/></a>
   <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-	<a href = "https://medium.com/@sahilkandhare07" target ="_blank"><img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/></a>
+   <a href = "https://medium.com/@sahilkandhare07" target ="_blank"><img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/></a>
 </div>
 	
 <br>
@@ -28,18 +28,12 @@
  
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
-<!-- ## 🏆 My GitHub stats
+## 🏆 My GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)	
-	
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilK-027&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
-![trophy](https://github-profile-trophy.vercel.app/?username=SahilK-027&theme=onedark&column=3&margin-w=15&margin-h=15)
- -->
- 
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 <br>
 	
 ## 🧰 Tools & Languages: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
@@ -108,7 +102,8 @@
         </tr>
     </tbody>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff) 
+-->
 </div>
 </div>
