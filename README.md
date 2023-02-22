@@ -8,8 +8,8 @@
 		<td>
 		<br>
 		Hi, my name is Sahil K.. I am a third-year undergraduate student studying computer science. I enjoy computer programming, problem solving, taking on new challenges, and learning new skills along the way.<br><br>
-		My preferred programming language is C++, although I also enjoy working in Javascript. I enjoy competitive programming, designing 3D interactive web front ends, game development, and 3D modelling. I have prior experience with React.JS, R3F, Three.JS, Figma, and Blender. <br><br>
-		In my spare time, I like to write articles, cycle, and create 3D models. You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sahilk027-projects.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. ❤ Thank You! 
+		My preferred programming language is C++, although I also enjoy working in Javascript. I enjoy competitive programming, designing 3D interactive web front ends, game development, and 3D modelling. I have prior experience with React.JS, R3F, Three.JS, Figma, and Blender. In my spare time, I like to write articles, cycle, and create 3D models.<br><br>
+		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sahilk027-projects.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. ❤ Thank You! 
 		<br>
 		<br>
 		</td>
