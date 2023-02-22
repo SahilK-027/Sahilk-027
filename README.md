@@ -38,10 +38,9 @@
 			COMMENTED SECTION
 	
 ========================================================================== -->
+<!--
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
-<!-- 
 ## 🏆 My GitHub stats
-	
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)	
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats) 
@@ -119,7 +118,9 @@
 -->
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff) 
--->
+
+
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+-->
 </div>
 </div>
