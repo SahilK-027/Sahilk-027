@@ -1,14 +1,22 @@
 <div align="center">
-<h1> Hello fellow DEVELOPERS  <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
 
-```diff
- mmmmm           mm   m    m         mmmm    mm   m    m mmmmm  m     
-   #             ##   ##  ##        #"   "   ##   #    #   #    #     
-   #            #  #  # ## #        "#mmm   #  #  #mmmm#   #    #     
-   #            #mm#  # "" #            "#  #mm#  #    #   #    #     
- mm#mm         #    # #    #        "mmm#" #    # #    # mm#mm  #mmmmm
-```
-	
+![SK027](https://user-images.githubusercontent.com/104154041/220630287-1671f5f9-1f94-4403-abad-e09f60840e71.png)
+
+<table width="100px">
+    <tbody>
+        <tr align="justify">
+		<td>
+		<br>
+		Hi, my name is Sahil K.. I am a third-year undergraduate student studying computer science. I enjoy computer programming, problem solving, taking on new challenges, and learning new skills along the way.<br><br>
+		My preferred programming language is C++, although I also enjoy working in Javascript. I enjoy competitive programming, designing 3D interactive web front ends, game development, and 3D modelling. I have prior experience with React.JS, R3F, Three.JS, Figma, and Blender. <br><br>
+		In my spare time, I like to write articles, cycle, and create 3D models. You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sahilk027-projects.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. ❤ Thank You! 
+		<br>
+		<br>
+		</td>
+	 </tr>
+    </tbody>
+</table>
+
 <span align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
@@ -22,21 +30,26 @@
   <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
    <a href = "https://medium.com/@sahilkandhare07" target ="_blank"><img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/></a>
 </div>
-	
-<br>
-<br>
 
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+
+
+
+<!-- ==========================================================================
+			COMMENTED SECTION
 	
+========================================================================== -->
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+<!-- 
 ## 🏆 My GitHub stats
 	
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilK-027&theme=tokyonight&show_icons=true)	
-<!-- 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahilK-027&theme=tokyonight&border_radius=10)](https://git.io/streak-stats) 
 -->
 
 <br>
 	
+<!-- 
 ## 🧰 Tools & Languages: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
 <table width="320px">
@@ -103,6 +116,7 @@
         </tr>
     </tbody>
 </table>
+-->
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff) 
 -->
