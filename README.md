@@ -17,7 +17,7 @@
 	 </tr>
     </tbody>
 </table>
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+<!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
 	
 <span align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
