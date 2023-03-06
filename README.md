@@ -2,7 +2,7 @@
 
 <a href="https://sahilk027-projects.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/104154041/220631290-2b6997dd-fae0-4457-878b-cde13bfc71cb.png" /></a>
 
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
+<!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
 <table width="100px">
     <tbody>
         <tr align="justify">
@@ -29,7 +29,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-   <a href = "https://medium.com/@sahilkandhare07" target ="_blank"><img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/></a>
 </div>
 
 </div>
