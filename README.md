@@ -16,13 +16,16 @@
 	 </tr>
     </tbody>
 </table>
+	
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight) -->
+	
 <!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
 	
 <span align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
 
-  
+
 🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/10833279/resume.pdf" target="_blank">MY RESUME.</a>
 
 <div id="badges" align="center">
