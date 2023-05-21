@@ -22,7 +22,7 @@
 <!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
 	
 <span align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Technologies&center=true&width=500&height=50">
 </span>
 
 
