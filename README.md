@@ -8,7 +8,7 @@
         <tr align="justify">
 		<td>
 		<br>
-		Hi, my name is Sahil K. I am a third-year undergraduate student studying CSE. Although my preferred programming language is C++, I love writing code in Javascript as well. I enjoy competitive programming, designing 3D interactive web front ends, developing games, and 3D modeling. I have experience with Three.JS, React.JS, R3F, Figma, and Blender. In my spare time, I like writing articles and drawing.		   <br><br>
+		Hi, my name is Sahil K. I am a third-year undergraduate student studying CSE. Although my preferred programming language is C++, I love writing code in Javascript as well. I enjoy competitive programming, designing 3D interactive web front ends, developing games, and 3D modeling. I have experience with Three.JS, React.JS, Node.JS, Express.JS, R3F, Figma, and Blender. In my spare time, I like writing articles and drawing.		   <br><br>
 		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027-projects.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. 💜 Thank You! 
 		<br>
 		<br>
