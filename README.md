@@ -8,7 +8,28 @@
         <tr align="justify">
 		<td>
 		<br>
-		Hi, my name is Sahil K. I am a third-year undergraduate student studying CSE. Although my preferred programming language is C++, I love writing code in Javascript as well. I enjoy competitive programming, designing 3D interactive web front ends, developing games, and 3D modeling. I have experience with Three.JS, React.JS, Node.JS, Express.JS, R3F, Figma, and Blender. In my spare time, I like writing articles and drawing.		   <br><br>
+		Hello, my name is Sahil, and I'm a passionate third-year undergraduate student pursuing a Computer Science and Engineering degree. Since I was young, I found myself drawn to the world of electronics, computer science and coding. As I delved into programming, a connection began to form, leading me to discover my passion for two programming languages: C++ and JavaScript.
+		<br>
+		<br>
+C++ holds a special place in my heart as it was my first language which introduced me to the world of programming. Its powerful and versatile nature always excites me, and I enjoy leveraging its capabilities for problem-solving in competitive programming. The challenges that arise during competitive programming keep pushing me to continually enhance my problem-solving skills.
+		<br>
+		<br>
+On the other hand, I just love writing JavaScript, it's the language that offers me a creative outlet to express my ideas and bring them to life on the web. I find immense joy in designing eye-catching 3D interactive web front ends, where I can blend my technical skills with my artistic vision. Working with frameworks like Three.js, React three fibre, React.js, and Express.js allows me to explore the vast possibilities of web development and create immersive user experiences.
+		<br>
+		<br>
+Apart from web development, I have an interest in game development. This all began with the thought "Instead of just playing games, why not develop one myself?". And with that thought, I developed 2D games like PAC-MAN and CASTLE-BATTLE. Building games allows me to combine my coding skills with my passion for storytelling and creativity. It's a fascinating process to see lines of code transform into a captivating virtual world. Right now in my spare time, I am trying to develop a 3D game using my THREE.JS skills.
+		<br>
+		<br>
+Another aspect of my creativity lies in 3D modelling. Using software like Blender, I enjoy crafting models that bring ideas to life. The process of taking a concept and transforming it into a tangible 3D object is both rewarding and fulfilling.
+		<br>
+		<br>
+In my spare time, I love writing articles.  When I'm not coding or writing, you can often find me lost in the world of illustrations, sketching scenes from my imagination.
+		<br>
+		<br>
+I believe in constantly pushing my boundaries and learning new technologies to stay at the forefront of the ever-evolving field of computer science. With a firm foundation in C++ and JavaScript, coupled with my experience in frameworks like React.js, Node.js, and Express.js, I am confident in my ability to tackle complex challenges and deliver innovative solutions.
+		<br>
+		<br>
+I am excited about the endless possibilities that lie ahead and look forward to collaborating with talented individuals who share the same passion for technology and creativity. If you'd like to connect and explore potential opportunities, feel free to reach out. Let's embark on this exciting journey together!
 		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027-projects.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. 💜 Thank You! 
 		<br>
 		<br>
