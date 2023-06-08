@@ -37,7 +37,7 @@ Another aspect of my creativity lies in 3D modelling. Using software like Blende
 I believe in constantly pushing my boundaries and learning new technologies to stay at the forefront of the ever-evolving field of computer science. With a firm foundation in C++ and JavaScript, coupled with my experience in frameworks like React.js, Node.js, and Express.js, I am confident in my ability to tackle complex challenges and deliver innovative solutions. I am excited about the endless possibilities that lie ahead and look forward to collaborating with talented individuals who share the same passion for technology and creativity. If you'd like to connect and explore potential opportunities, feel free to reach out. Let's embark on this exciting journey together!
 		<br>
 		<br>
-		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027-projects.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. 💜 Thank You! 
+		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. 💜 Thank You! 
 		<br>
 		<br>
 		</td>
