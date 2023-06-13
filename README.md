@@ -59,7 +59,6 @@ I believe in constantly pushing my boundaries and learning new technologies to s
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href = "https://twitter.com/Sahil_K_27" target ="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
 </div>
