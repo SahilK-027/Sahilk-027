@@ -54,8 +54,7 @@ I believe in constantly pushing my boundaries and learning new technologies to s
 </span>
 
 
-	
-🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/10833279/resume.pdf" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/11859918/resume_june.pdf" target="_blank">MY RESUME.</a>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
