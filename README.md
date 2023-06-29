@@ -53,6 +53,7 @@ I believe in constantly pushing my boundaries and learning new technologies to s
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Technologies&center=true&width=500&height=50">
 </span>
 
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true)-->
 
 🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/11876351/resume.pdf" target="_blank">MY RESUME.</a>
 
