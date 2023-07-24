@@ -8,7 +8,7 @@
         <tr align="justify">
 		<td>
 		<br>
-		🙋🏻 Hello, my name is Sahil, and I'm a third-year undergraduate student pursuing a Computer Science and Engineering degree. Since I was young, I found myself drawn to the world of electronics, computer science. As I delved into programming, a connection began to form, leading me to discover my passion for two programming languages: C++ and JavaScript.
+		🙋🏻 Hello, my name is Sahil, and I'm a third-year undergraduate student pursuing a Computer Science and Engineering degree. Since I was young, I found myself drawn to the world of electronics and computers. As I delved into programming, a connection began to form, leading me to discover my passion for two programming languages: C++ and JavaScript.
 		<br>
 		<br>
 🧑‍💻 C++ holds a special place in my heart as it was my first language which introduced me to the world of programming. Its powerful and versatile nature always excites me, and I enjoy leveraging its capabilities for problem-solving in competitive programming. On the other hand, I just love writing JavaScript, it's the language that offers me a creative outlet to express my ideas and bring them to life on the web. I find immense joy in designing eye-catching 3D interactive web front ends, where I can blend my technical skills with my artistic vision. Working with frameworks like Three.js, React three fibre, React.js, and Express.js allows me to explore the vast possibilities of web development and create immersive user experiences.
