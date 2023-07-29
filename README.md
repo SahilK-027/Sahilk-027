@@ -55,7 +55,7 @@ I believe in constantly pushing my boundaries and learning new technologies to s
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true)-->
 
-🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/11876351/resume.pdf" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/12207320/Resume-Current.pdf" target="_blank">MY RESUME.</a>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
