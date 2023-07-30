@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://sahilk027-projects.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/104154041/220631290-2b6997dd-fae0-4457-878b-cde13bfc71cb.png" /></a>
+<a href="https://sahilk027-projects.vercel.app/" target="_blank"><img src="https://github.com/SahilK-027/Sahilk-027/assets/104154041/dbdc46d5-0ae2-4e1c-b092-04bf442f8c29" /></a>
 	
 <!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
 <table width="100px">
