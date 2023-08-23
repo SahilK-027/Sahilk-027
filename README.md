@@ -7,9 +7,6 @@
 		<td>
 		"From competitive coding in C++ to crafting interactive web experiences using JavaScript, React, Express, R3F, and THREE.js, I love blending technology with creativity. Let's explore and build possibilities together! 🚀"
 		<br>
-		<br>
-		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027.vercel.app/">here</a>. 💜 Thank You! 
-		<br>
 		</td>
 	 </tr>
     </tbody>
@@ -26,29 +23,15 @@
 			<br>
 		</td>
 		<td>
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Exploring+and+Learning+New+Technologies&center=true&width=500&height=50">
-		<p align="center">
-			🤔 I’m currently open for: <b>An Internship</b>, this is <a href="https://github.com/SahilK-027/Sahilk-027/files/12207320/Resume-Current.pdf" target="_blank">MY RESUME.</a>
-   </p>
-			
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sahil-kandhare-661b99226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</div>
+		<img src ="https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true"/>
 		</td>
 	 </tr>
     </tbody>
 </table>
-
-
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SK027) -->
-	
-<!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
-	
-
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true)-->
-
-
-
-
 </div>
+
+## Let's Connect 🔗
+
+- 🌏 Portfolio: https://sk027.vercel.app/
+- 🔹 Linked-In: https://www.linkedin.com/in/sahilk027/
+- 📄 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/12417365/resume.pdf)
