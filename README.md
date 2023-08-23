@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://sahilk027-projects.vercel.app/" target="_blank"><img src="https://github.com/SahilK-027/Sahilk-027/assets/104154041/dbdc46d5-0ae2-4e1c-b092-04bf442f8c29" /></a>
+<!-- <a href="https://sahilk027-projects.vercel.app/" target="_blank"><img src="https://github.com/SahilK-027/Sahilk-027/assets/104154041/dbdc46d5-0ae2-4e1c-b092-04bf442f8c29" /></a> -->
 	
 <!-- <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> -->
 <table width="100px">
@@ -18,23 +18,19 @@
 		<br>
 		<br>
 		<br>
-
+<!--
 <table align="center" >
 <tr>
 <td>(1)</td>
 <td><a href="https://sahilk-027-pacmam.netlify.app/"><img width="200" src = "https://github.com/SahilK-027/Sahilk-027/assets/104154041/7670df46-7978-4674-9726-8f59a3750277" alt = "Img"></a></td>
 <td><a href="https://sahilk-027-pacmam.netlify.app/">PAC-MAN</a><br/></td>
-
 <td>(2)</td>
 <td><a href="https://sahilk-027-castle-battle.netlify.app/"><img width="200" src = "https://github.com/SahilK-027/Sahilk-027/assets/104154041/0a98df0b-8d75-43f4-9e2f-7c99a4c0a9c5" alt = "img"></a></td>
 <td><a href="https://sahilk-027-castle-battle.netlify.app/">Castle Battle</a><br/></td>
 </tr>
 </table>
-		<br>
-Another aspect of my creativity lies in 3D modelling. Using software like Blender, I enjoy crafting models that bring ideas to life.
-		<br>
-		<br>
-I believe in constantly pushing my boundaries and learning new technologies to stay at the forefront of the ever-evolving field of computer science. With a firm foundation in C++ and JavaScript, coupled with my experience in frameworks like React.js, Node.js, and Express.js, I am confident in my ability to tackle complex challenges and deliver innovative solutions. I am excited about the endless possibilities that lie ahead and look forward to collaborating with talented individuals who share the same passion for technology and creativity. If you'd like to connect and explore potential opportunities, feel free to reach out. Let's embark on this exciting journey together!
+-->		
+Another aspect of my creativity lies in 3D modelling. Using software like Blender, I enjoy crafting models that bring ideas to life. I believe in constantly pushing my boundaries and learning new technologies to stay at the forefront of the ever-evolving field of computer science. With a firm foundation in C++ and JavaScript, coupled with my experience in frameworks like React.js, Node.js, and Express.js, I am confident in my ability to tackle complex challenges and deliver innovative solutions. I am excited about the endless possibilities that lie ahead and look forward to collaborating with talented individuals who share the same passion for technology and creativity. If you'd like to connect and explore potential opportunities, feel free to reach out. Let's embark on this exciting journey together!
 		<br>
 		<br>
 		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. 💜 Thank You! 
