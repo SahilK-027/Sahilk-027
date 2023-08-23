@@ -8,7 +8,7 @@
 		"From competitive coding in C++ to crafting interactive web experiences using JavaScript, React, Express, R3F, and THREE.js, I love blending technology with creativity. Let's explore and build possibilities together! 🚀"
 		<br>
 		<br>
-		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027.vercel.app/">here</a>. If you like my work you can support my work via GitHub Sponsors. 💜 Thank You! 
+		You can access my social profiles via the links provided below, as well as some of my other projects <a href="https://sk027.vercel.app/">here</a>. 💜 Thank You! 
 		<br>
 		</td>
 	 </tr>
