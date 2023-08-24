@@ -23,7 +23,7 @@
 			<br>
 		</td>
 		<td>
-		<img src ="https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true"/>
+		<img src ="https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true&rank_icon=percentile"/>
 		</td>
 	 </tr>
     </tbody>
