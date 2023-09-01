@@ -5,7 +5,7 @@
     <tbody>
         <tr align="justify">
 		<td>
-		"From competitive coding in C++ to crafting interactive web experiences using JavaScript, I love blending technology with creativity. Let's explore and build possibilities together! 🚀"
+		"From competitive programming in C++ to crafting interactive web experiences using JavaScript, I love blending technology with creativity. Let's explore and build possibilities together! 🚀"
 		<br>
 		</td>
 	 </tr>
