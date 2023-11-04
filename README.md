@@ -38,4 +38,4 @@
 
 - 🌏 Portfolio: https://sk027.vercel.app/
 - 🔹 Linked-In: https://www.linkedin.com/in/sahilk027/
-- 📄 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/12417365/resume.pdf)
+- 📄 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/13256802/Resume.NOV.2023.pdf)
