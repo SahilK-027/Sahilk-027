@@ -1,5 +1,4 @@
-## Hi there, I am Sahil. <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
-
+##  Hi there, I am Sahil. <img src="https://github.com/SahilK-027/Sahilk-027/assets/104154041/a7eb2d05-dccb-4d88-ad5c-9cddd79eec4c" width="45" height="50" />
 
 > __📚 Currently-Reading:__
 > "Designing Data-Intensive Applications by Martin Kleppmann." (From: 3 Nov 2023)
