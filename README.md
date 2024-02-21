@@ -19,6 +19,5 @@
 
 ## Let's Connect 🔗
 
-- 🌏 Portfolio: https://sk027.vercel.app/
 - 🔹 Linked-In: https://www.linkedin.com/in/sahilk027/
 - 📄 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/13826116/Resume.JAN.2024.pdf)
