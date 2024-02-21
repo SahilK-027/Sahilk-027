@@ -15,23 +15,6 @@
 	 </tr>
     </tbody>
 </table>
-
-
- <table width="100px">
-    <tbody>
-        <tr align="justify">
-		<td>
-			<br>
-			<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilK-027&theme=tokyonight&layout=compact" />
-			<br>
-			<br>
-		</td>
-		<td>
-		<img src ="https://github-readme-stats.vercel.app/api?username=sahilk-027&theme=tokyonight&show_icons=true&rank_icon=percentile"/>
-		</td>
-	 </tr>
-    </tbody>
-</table>
 </div>
 
 ## Let's Connect 🔗
