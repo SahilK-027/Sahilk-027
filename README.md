@@ -14,7 +14,7 @@
 </div>
 
 
-[![wakatime](https://wakatime.com/badge/user/bd368bb8-3ce0-4454-af90-46861e91e98c.svg)](https://wakatime.com/@bd368bb8-3ce0-4454-af90-46861e91e98c)
+![wakatime](https://wakatime.com/badge/user/bd368bb8-3ce0-4454-af90-46861e91e98c.svg)
 
 ## Let's Connect 🔗
 
