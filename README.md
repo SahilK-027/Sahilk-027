@@ -20,4 +20,4 @@
 
 🔹 Linked-In: https://www.linkedin.com/in/sahilk027/
 
-🔹 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/14494702/resume.march.2024.pdf)
+🔹 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/14569607/resume.march.2024.pdf)
