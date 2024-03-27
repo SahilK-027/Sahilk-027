@@ -16,10 +16,6 @@
 
 ![wakatime](https://wakatime.com/badge/user/bd368bb8-3ce0-4454-af90-46861e91e98c.svg)
 
-<div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilK-027&theme=github_dark" />
-</div>
-
 ## Let's Connect 🔗
 
 🔹 Linked-In: https://www.linkedin.com/in/sahilk027/
