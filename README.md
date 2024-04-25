@@ -18,8 +18,9 @@
 
 ## Let's Connect 🔗
 
+
 🔹 Linked-In: https://www.linkedin.com/in/sahilk027/
 
-🔹 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/14612907/resume.03.2024.pdf)
+🔹 Resume: [Download](https://github.com/SahilK-027/Sahilk-027/files/15103388/ShilK_RESUME_APRIL_2024.pdf)
 
 >__0/27 for 2024__
