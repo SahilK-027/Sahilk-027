@@ -1,4 +1,4 @@
-#  Hi there, I am Sahil. 👋
+#  Hey there 👋 ! I'm Sahil K.
 ![wakatime](https://wakatime.com/badge/user/bd368bb8-3ce0-4454-af90-46861e91e98c.svg)
 
 From competitive programming in C++ to building interactive web experiences using JS, I blend technology with creativity. Let's connect and explore the world of pixels and protocols together! 🚀
