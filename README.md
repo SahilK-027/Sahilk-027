@@ -7,4 +7,4 @@ From [competitive programming](https://leetcode.com/u/sahil_k_027/) in C++ to bu
 
 🔗 Let's Connect: [linkedin-sahilk027](https://www.linkedin.com/in/sahilk027/)
 
-🧑‍💻 Checkout my Devlogs at: [YouTube-@theshaderboy(https://www.youtube.com/@theshaderboy)
+🧑‍💻 Checkout my Devlogs at: [YouTube-@theshaderboy](https://www.youtube.com/@theshaderboy)
