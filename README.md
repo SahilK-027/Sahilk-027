@@ -6,5 +6,3 @@ From [competitive programming](https://leetcode.com/u/sahil_k_027/) in C++ to bu
 ✏️ You can find my blogs at: [sahilk027.blog](https://www.sahilk027.blog/)
 
 🔗 Let's Connect: [linkedin-sahilk027](https://www.linkedin.com/in/sahilk027/)
-
-🧑‍💻 Checkout my Devlogs at: [YouTube-@theshaderboy](https://www.youtube.com/channel/UCisdjIk113VLoocWQASkgsQ)
