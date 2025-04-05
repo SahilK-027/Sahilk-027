@@ -3,7 +3,7 @@
 
 Exploring the world of pixels and protocols! 🚀
 
-✏️ You can find my blogs at: [sahilk027-blog.vercel.app](https://www.sahilk027-blog.vercel.app/)
+✏️ You can find my blogs at: [sahilk027-blog.vercel.app](https://sahilk027-blog.vercel.app/)
 
 🔗 Let's Connect: [linkedin-sahilk027](https://www.linkedin.com/in/sahilk027/)
 
