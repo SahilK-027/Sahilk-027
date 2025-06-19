@@ -7,4 +7,4 @@ Exploring the world of pixels and protocols! 🚀
 
 🔗 Let's Connect: [linkedin-sahilk027](https://www.linkedin.com/in/sahilk027/)
 
-⏯️ Checkout my Devlogs at: [Youtube-@TheShaderBoy](https://www.youtube.com/@SahilK-027)
+⏯️ Checkout my Devlogs at: [Youtube-@SahilK-027](https://www.youtube.com/@SahilK-027)
