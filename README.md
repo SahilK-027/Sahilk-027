@@ -1,4 +1,5 @@
-#  Hey there 👋 ! I'm Sahil K.
+# Hey there 👋 ! I'm Sahil K.
+
 ![wakatime](https://wakatime.com/badge/user/bd368bb8-3ce0-4454-af90-46861e91e98c.svg)
 
 Exploring the world of pixels and protocols! 🚀
@@ -8,3 +9,9 @@ Exploring the world of pixels and protocols! 🚀
 🔗 Let's Connect: [linkedin-sahilk027](https://www.linkedin.com/in/sahilk027/)
 
 ⏯️ Checkout my Devlogs at: [Youtube-@SahilK-027](https://www.youtube.com/@SahilK-027)
+
+## Yearly Commit Goals 🎯
+
+<!-- COMMITS_LIST_START -->
+<!-- The GitHub Action will replace this whole block with a live SVG + markdown list -->
+<!-- COMMITS_LIST_END -->
