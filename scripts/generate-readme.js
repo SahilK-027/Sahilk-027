@@ -9,7 +9,7 @@ function generateProjectsTable(projects) {
   const reversed = [...projects].reverse();
   const rows = [];
   
-  const shimmerCell = `<td align="center"><img width="300" src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong></td>`;
+  const shimmerCell = `<td align="center"><img width="300" height="170" style="object-fit: cover;" src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong></td>`;
 
   for (let i = 0; i < reversed.length; i += 3) {
     const rowProjects = reversed.slice(i, i + 3);
@@ -22,8 +22,8 @@ function generateProjectsTable(projects) {
         .join(' · ');
 
       const thumbnail = p.liveUrl
-        ? `<a href="${p.liveUrl}"><img width="300" src="${p.thumbnail}" alt="${p.title}"></a>`
-        : `<img width="300" src="${p.thumbnail}" alt="${p.title}">`;
+        ? `<a href="${p.liveUrl}"><img width="300" height="170" style="object-fit: cover;" src="${p.thumbnail}" alt="${p.title}"></a>`
+        : `<img width="300" height="170" style="object-fit: cover;" src="${p.thumbnail}" alt="${p.title}">`;
 
       return `<td align="center">${thumbnail}<br/>⎯⎯⎯⎯<br/><strong>${p.title}</strong><br/>${links}</td>`;
     });
