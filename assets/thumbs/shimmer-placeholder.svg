@@ -1,0 +1,14 @@
+<svg width="280" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shimmer" x1="-100%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1c2128"/>
+      <stop offset="50%" stop-color="#3b4754"/>
+      <stop offset="100%" stop-color="#1c2128"/>
+      <animate attributeName="x1" values="-100%;100%" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="1.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="180" rx="8" fill="#161b22"/>
+  <rect width="280" height="180" rx="8" fill="url(#shimmer)" opacity="0.8"/>
+  <text x="140" y="90" text-anchor="middle" fill="#8b949e" font-family="system-ui, sans-serif" font-size="14" font-weight="500">Work in progress...</text>
+</svg>

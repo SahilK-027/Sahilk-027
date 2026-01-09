@@ -1,0 +1,124 @@
+{
+  "projects": [
+    {
+      "title": "Trinity 2023",
+      "thumbnail": "assets/thumbs/project-1.gif",
+      "liveUrl": "https://trinity-2023.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Trinity-2023"
+    },
+    {
+      "title": "Assemble Script",
+      "thumbnail": "assets/thumbs/project-2.png",
+      "liveUrl": "https://assemblescript.vercel.app/",
+      "codeUrl": "https://github.com/AssembleProgramming/AssembleScript"
+    },
+    {
+      "title": "Trinity 2024",
+      "thumbnail": "assets/thumbs/project-3.png",
+      "liveUrl": "https://trinity-2024.vercel.app/",
+      "codeUrl": null
+    },
+    {
+      "title": "Butterfly",
+      "thumbnail": "assets/thumbs/project-4.png",
+      "liveUrl": "https://butterfly-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Butterfly"
+    },
+    {
+      "title": "Water Color",
+      "thumbnail": "assets/thumbs/project-5.png",
+      "liveUrl": "https://watercolor-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/water-color"
+    },
+    {
+      "title": "Castle Battle",
+      "thumbnail": "assets/thumbs/project-6.png",
+      "liveUrl": "https://sahilk-027-castle-battle.netlify.app/",
+      "codeUrl": "https://github.com/SahilK-027/Castle-Battle"
+    },
+    {
+      "title": "Hello World",
+      "thumbnail": "assets/thumbs/project-7.png",
+      "liveUrl": "https://sk027v2.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/hello-world-r3f"
+    },
+    {
+      "title": "Realistic Render",
+      "thumbnail": "assets/thumbs/project-8.png",
+      "liveUrl": "https://realistic-render-sea-turtle.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Realistic-Render-Sea-Turtle"
+    },
+    {
+      "title": "Polar Bear",
+      "thumbnail": "assets/thumbs/project-9.png",
+      "liveUrl": "https://polar-bear-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Polar-Bear"
+    },
+    {
+      "title": "Neon Christmas",
+      "thumbnail": "assets/thumbs/project-10.png",
+      "liveUrl": "https://neon-christmas-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/neon-christmas"
+    },
+    {
+      "title": "Minecraft",
+      "thumbnail": "assets/thumbs/project-11.png",
+      "liveUrl": "https://minecraft-sahilk.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/My-Minecraft"
+    },
+    {
+      "title": "Camera Controller",
+      "thumbnail": "assets/thumbs/project-12.png",
+      "liveUrl": "https://tpp-orbit-camera-controller.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/TPP-Orbit-Camera-Controller"
+    },
+    {
+      "title": "Frosted Canvas",
+      "thumbnail": "assets/thumbs/project-13.png",
+      "liveUrl": "https://frosted-canvas.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Frosted-Canvas"
+    },
+    {
+      "title": "Celestial Drift",
+      "thumbnail": "assets/thumbs/project-14.png",
+      "liveUrl": "https://celestial-drift.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Celestial-Drift"
+    },
+    {
+      "title": "GPGPU Particles",
+      "thumbnail": "assets/thumbs/project-15.png",
+      "liveUrl": "https://particles-gpgpu-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/0x7444ff/tree/main/particles-GPGPU"
+    },
+    {
+      "title": "Holograms",
+      "thumbnail": "assets/thumbs/project-16.png",
+      "liveUrl": "https://iron-man-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/0x7444ff/tree/main/iron-man-hologram"
+    },
+    {
+      "title": "Space Distortion",
+      "thumbnail": "assets/thumbs/project-17.png",
+      "liveUrl": "https://space-distortion-sk027.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/0x7444ff/tree/main/space-distortion"
+    },
+    {
+      "title": "Abstract Pattern",
+      "thumbnail": "assets/thumbs/project-18.png",
+      "liveUrl": "https://0x7444ff-perlin-noise-advanced-abstract-pattern.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/0x7444ff/tree/main/perlin-noise-advanced-abstract-pattern"
+    },
+    {
+      "title": "Elemental Serenity",
+      "thumbnail": "assets/thumbs/project-19.png",
+      "liveUrl": "https://elemental-serenity.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Elemental-Serenity"
+    },
+    {
+      "title": "Crystal Bird",
+      "thumbnail": "assets/thumbs/project-20.png",
+      "liveUrl": "https://crystal-bird.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Crystal-Bird"
+    }
+  ]
+}
