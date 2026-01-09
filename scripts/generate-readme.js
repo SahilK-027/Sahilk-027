@@ -9,7 +9,7 @@ function generateProjectsTable(projects) {
   const reversed = [...projects].reverse();
   const rows = [];
   const shimmerCell = `
-      <td align="center">
+      <td width="33%" align="center">
         <img src="assets/thumbs/shimmer-placeholder.svg" width="280" alt="Coming Soon"/>
         <span>⎯⎯⎯⎯</span>
         <br/>
@@ -34,7 +34,7 @@ function generateProjectsTable(projects) {
           : `<img src="${p.thumbnail}" width="280" alt="${p.title}"/>`;
 
         return `
-      <td align="center">
+      <td width="33%" align="center">
         ${thumbnail}
         <span>⎯⎯⎯⎯</span>
         <br/>
