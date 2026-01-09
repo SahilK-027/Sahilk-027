@@ -9,10 +9,10 @@ function generateProjectsTable(projects) {
   const reversed = [...projects].reverse();
   const rows = [];
 
-  const shimmerCell = `<td align="center"><img src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong></td>`;
+  const shimmerCell = `<td align="center"><img src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://https://github.com/SahilK-027">Stay tuned<a></td>`;
 
-  for (let i = 0; i < reversed.length; i += 4) {
-    const rowProjects = reversed.slice(i, i + 4);
+  for (let i = 0; i < reversed.length; i += 3) {
+    const rowProjects = reversed.slice(i, i + 3);
     const cells = rowProjects.map((p) => {
       const links = [
         p.codeUrl ? `<a href="${p.codeUrl}">Code</a>` : null,
@@ -29,7 +29,7 @@ function generateProjectsTable(projects) {
     });
 
     // Fill empty cells with shimmer placeholder
-    while (cells.length < 4) {
+    while (cells.length < 3) {
       cells.push(shimmerCell);
     }
 
