@@ -8,48 +8,34 @@ const readme = fs.readFileSync(readmePath, 'utf8');
 function generateProjectsTable(projects) {
   const reversed = [...projects].reverse();
   const rows = [];
-  const shimmerCell = `
-      <td width="33%" align="center">
-        <img src="assets/thumbs/shimmer-placeholder.svg" width="280" alt="Coming Soon"/>
-        <span>⎯⎯⎯⎯</span>
-        <br/>
-        <strong>Coming Soon</strong><br/>
-        <span style="color: #768390;">Stay tuned!</span>
-        &nbsp;
-      </td>`;        
+  
+  const shimmerCell = `<td align="center"><img width="300" src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong></td>`;
 
   for (let i = 0; i < reversed.length; i += 3) {
     const rowProjects = reversed.slice(i, i + 3);
-    const cells = rowProjects
-      .map((p) => {
-        const links = [
-          p.codeUrl ? `<a href="${p.codeUrl}">Code</a>` : null,
-          p.liveUrl ? `<a href="${p.liveUrl}">Live</a>` : null,
-        ]
-          .filter(Boolean)
-          .join(' · ');
+    const cells = rowProjects.map((p) => {
+      const links = [
+        p.codeUrl ? `<a href="${p.codeUrl}">Code</a>` : null,
+        p.liveUrl ? `<a href="${p.liveUrl}">Live</a>` : null,
+      ]
+        .filter(Boolean)
+        .join(' · ');
 
-        const thumbnail = p.liveUrl
-          ? `<a href="${p.liveUrl}"><img src="${p.thumbnail}" width="280" alt="${p.title}"/></a>`
-          : `<img src="${p.thumbnail}" width="280" alt="${p.title}"/>`;
+      const thumbnail = p.liveUrl
+        ? `<a href="${p.liveUrl}"><img width="300" src="${p.thumbnail}" alt="${p.title}"></a>`
+        : `<img width="300" src="${p.thumbnail}" alt="${p.title}">`;
 
-        return `
-      <td width="33%" align="center">
-        ${thumbnail}
-        <span>⎯⎯⎯⎯</span>
-        <br/>
-        <strong>${p.title}</strong><br/>
-        ${links}
-      </td>`;
-      })
-      .join('');
+      return `<td align="center">${thumbnail}<br/>⎯⎯⎯⎯<br/><strong>${p.title}</strong><br/>${links}</td>`;
+    });
 
-    // Fill empty cells with shimmer placeholders
-    const emptyCells = 3 - rowProjects.length;
-    const fillerCells = shimmerCell.repeat(emptyCells);
+    // Fill empty cells with shimmer placeholder
+    while (cells.length < 3) {
+      cells.push(shimmerCell);
+    }
 
-    rows.push(`  <tr>${cells}${fillerCells}\n  </tr>`);
+    rows.push(`<tr>\n${cells.join('\n')}\n</tr>`);
   }
+  
   return `<table>\n${rows.join('\n')}\n</table>`;
 }
 
