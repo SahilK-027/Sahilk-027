@@ -119,6 +119,12 @@
       "thumbnail": "assets/thumbs/project-20.png",
       "liveUrl": "https://crystal-bird.vercel.app/",
       "codeUrl": "https://github.com/SahilK-027/Crystal-Bird"
+    },
+    {
+      "title": "Cyber Ocean",
+      "thumbnail": "assets/thumbs/project-21.webp",
+      "liveUrl": "https://cyber-ocean.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Cyber-Ocean"
     }
   ]
 }
