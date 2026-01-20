@@ -1,7 +1,4 @@
 # Hey there 👋 ! I'm Sahil K.
-
-> Exploring the world of pixels and protocols! 🚀
-
 ![wakatime](https://wakatime.com/badge/user/bd368bb8-3ce0-4454-af90-46861e91e98c.svg)
 
 ## Find me ↘
