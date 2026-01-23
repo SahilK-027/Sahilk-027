@@ -125,6 +125,12 @@
       "thumbnail": "assets/thumbs/project-21.webp",
       "liveUrl": "https://cyber-ocean.vercel.app/",
       "codeUrl": "https://github.com/SahilK-027/Cyber-Ocean"
+    },
+    {
+      "title": "Digital Brain",
+      "thumbnail": "assets/thumbs/project-22.webp",
+      "liveUrl": "https://digital-brain-sk.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Digital-Brain"
     }
   ]
 }
