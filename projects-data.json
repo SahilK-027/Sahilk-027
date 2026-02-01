@@ -131,6 +131,12 @@
       "thumbnail": "assets/thumbs/project-22.webp",
       "liveUrl": "https://digital-brain-sk.vercel.app/",
       "codeUrl": "https://github.com/SahilK-027/Digital-Brain"
+    },
+    {
+      "title": "The Erdtree",
+      "thumbnail": "assets/thumbs/project-23.webp",
+      "liveUrl": "https://the-erdtree.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/The-Erdtree"
     }
   ]
 }
