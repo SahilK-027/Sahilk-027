@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://glsl-curl-noise.vercel.app/"><img src="assets/thumbs/project-19.webp" alt="Curl Noisr"></a><br/>⎯⎯⎯⎯<br/><strong>Curl Noisr</strong><br/><a href="https://github.com/SahilK-027/glsl-curl-noise">Code</a> · <a href="https://glsl-curl-noise.vercel.app/">Live</a></td>
+<td align="center"><a href="https://glsl-curl-noise.vercel.app/"><img src="assets/thumbs/project-19.webp" alt="Curl Noise"></a><br/>⎯⎯⎯⎯<br/><strong>Curl Noise</strong><br/><a href="https://github.com/SahilK-027/glsl-curl-noise">Code</a> · <a href="https://glsl-curl-noise.vercel.app/">Live</a></td>
 <td align="center"><a href="https://the-erdtree.vercel.app/"><img src="assets/thumbs/project-18.webp" alt="The Erdtree"></a><br/>⎯⎯⎯⎯<br/><strong>The Erdtree</strong><br/><a href="https://github.com/SahilK-027/The-Erdtree">Code</a> · <a href="https://the-erdtree.vercel.app/">Live</a></td>
 <td align="center"><a href="https://digital-brain-sk.vercel.app/"><img src="assets/thumbs/project-17.webp" alt="Digital Brain"></a><br/>⎯⎯⎯⎯<br/><strong>Digital Brain</strong><br/><a href="https://github.com/SahilK-027/Digital-Brain">Code</a> · <a href="https://digital-brain-sk.vercel.app/">Live</a></td>
 </tr>
