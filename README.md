@@ -7,9 +7,11 @@
 
 🎬 [Showcases/Devlogs at: Youtube-@SahilK-027](https://www.youtube.com/@SahilK-027)
 
-💼 [Linkedin-sahilk027](https://www.linkedin.com/in/sahilk027/)
+💼 [Linkedin: sahilk027](https://www.linkedin.com/in/sahilk027/)
 
-🐦 [Twitter-@SahilK027](https://x.com/SahilK027)
+🐦 [Twitter: @SahilK027](https://x.com/SahilK027)
+
+🎮 [Discord: SahilK027's Creative Hub](https://discord.gg/nx6v6Zj75r)
 
 <!-- PROJECT-TABLE-START -->
 ## Projects <sup>19</sup> ↘
