@@ -119,6 +119,12 @@
       "thumbnail": "assets/thumbs/project-20.webp",
       "liveUrl": "https://lightning-vfx.vercel.app/",
       "codeUrl": "https://github.com/SahilK-027/Lightning-VFX"
+    },
+    {
+      "title": "Procedural Kaleidoscope",
+      "thumbnail": "assets/thumbs/project-21.webp",
+      "liveUrl": "https://procedural-kaleidoscope.vercel.app/",
+      "codeUrl": "https://github.com/SahilK-027/Procedural-Kaleidoscope"
     }
   ]
 }
