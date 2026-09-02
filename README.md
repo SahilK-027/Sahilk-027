@@ -18,7 +18,7 @@ Total time spent coding so far: ![wakatime](https://wakatime.com/badge/user/bd36
 
 <table>
 <tr>
-<td align="center"><a href="https://deltoid.vercel.app/"><img src="assets/thumbs/project-22.webp" alt="Deltoid"></a><br/>⎯⎯⎯⎯<br/><strong>Deltoid</strong><br/><a href="https://github.com/SahilK-027/Deltoid">Code</a> · <a href="https://deltoid.vercel.app/">Live</a></td>
+<td align="center"><img src="assets/thumbs/project-22.webp" alt="Deltoid"><br/>⎯⎯⎯⎯<br/><strong>Deltoid</strong><br/><a href="https://github.com/SahilK-027/Deltoid">Code</a></td>
 <td align="center"><a href="https://procedural-kaleidoscope.vercel.app/"><img src="assets/thumbs/project-21.webp" alt="Procedural Kaleidoscope"></a><br/>⎯⎯⎯⎯<br/><strong>Procedural Kaleidoscope</strong><br/><a href="https://github.com/SahilK-027/Procedural-Kaleidoscope">Code</a> · <a href="https://procedural-kaleidoscope.vercel.app/">Live</a></td>
 <td align="center"><a href="https://lightning-vfx.vercel.app/"><img src="assets/thumbs/project-20.webp" alt="Lightning VFX"></a><br/>⎯⎯⎯⎯<br/><strong>Lightning VFX</strong><br/><a href="https://github.com/SahilK-027/Lightning-VFX">Code</a> · <a href="https://lightning-vfx.vercel.app/">Live</a></td>
 </tr>
