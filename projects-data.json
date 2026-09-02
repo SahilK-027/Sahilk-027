@@ -129,7 +129,7 @@
     {
       "title": "Deltoid",
       "thumbnail": "assets/thumbs/project-22.webp",
-      "liveUrl": "https://deltoid.vercel.app/",
+      "liveUrl": null,
       "codeUrl": "https://github.com/SahilK-027/Deltoid"
     }
   ]
