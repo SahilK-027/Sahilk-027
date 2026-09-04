@@ -125,12 +125,6 @@
       "thumbnail": "assets/thumbs/project-21.webp",
       "liveUrl": "https://procedural-kaleidoscope.vercel.app/",
       "codeUrl": "https://github.com/SahilK-027/Procedural-Kaleidoscope"
-    },
-    {
-      "title": "Deltoid",
-      "thumbnail": "assets/thumbs/project-22.webp",
-      "liveUrl": null,
-      "codeUrl": "https://github.com/SahilK-027/Deltoid"
     }
   ]
 }
